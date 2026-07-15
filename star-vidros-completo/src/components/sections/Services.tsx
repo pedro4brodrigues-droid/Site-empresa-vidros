@@ -42,7 +42,7 @@ const services: Service[] = [
     gallery: [janelaImg, "/fotos/star-janela-galeria-2.jpg", "/fotos/star-janela-galeria-3.jpg"]
   },
   {
-    title: "Balcão de Vidro",
+    title: "Armários de Vidro",
     description: "Elegância e funcionalidade para ambientes de cozinha e sala, com acabamentos de alta qualidade.",
     image: balcaoImg,
     gallery: [balcaoImg, "/fotos/star-balcao-galeria-2.jpg", "/fotos/star-balcao-galeria-3.jpg"]

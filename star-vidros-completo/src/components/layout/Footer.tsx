@@ -61,7 +61,11 @@ export function Footer() {
             <h4 className="text-foreground font-bold mb-6">Contato</h4>
             <ul className="space-y-4 text-sm text-muted-foreground">
               <li className="flex items-start gap-3">
-                <span className="font-semibold text-foreground">WhatsApp:</span> (34) 9216-6130
+               <span className="font-semibold text-foreground">WhatsApp:</span>
+              <div className="flex flex-col">
+              <span>Andre - (34) 99216-6130</span>
+              <span className="whitespace-nowrap">Alexandre - (34) 99650-3230</span>
+              </div>
               </li>
               <li className="flex items-start gap-3">
                 <span className="font-semibold text-foreground">E-mail:</span> contato@starvidros.com.br

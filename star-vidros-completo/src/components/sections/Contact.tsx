@@ -27,7 +27,10 @@ export function Contact() {
                 </div>
                 <div>
                   <h4 className="text-sm font-semibold text-foreground mb-1">WhatsApp & Telefone</h4>
-                  <p className="text-lg font-medium text-primary">(34) 9216-6130</p>
+                  <div className="flex flex-col text-lg font-medium text-primary">
+                  <span className="whitespace-nowrap">Andre - (34) 99216-6130</span>
+               <span className="whitespace-nowrap">Alexandre - (34) 99650-3230</span>
+                </div>
                 </div>
               </div>
 
